@@ -6,6 +6,5 @@
 - Ask me about everything
 - How to reach me: idk
 - Pronouns: He\him
-- Fun fact: Im dumpling
 
-github pages [here](https://quitrindev.cf/) (cringe)
+github pages [here](https://quitrindev.cf/)
