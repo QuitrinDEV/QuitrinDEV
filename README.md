@@ -7,4 +7,4 @@
 - How to reach me: idk
 - Pronouns: He\him
 
-github pages [here](https://quitrindev.cf/)
+github pages [here](https://quitrindev.github.io/)
