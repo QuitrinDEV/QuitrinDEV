@@ -1,9 +1,9 @@
 ### Hello!
 
-- I’m currently working on Cat`s Plants game
-- I’m currently learning C# & Java.
-- Ask me about everything
-- How to reach me: idk
-- Pronouns: He\him
+- Unity is enguine that i use.
+- Currently learning C# for Unity
+- and C
+- and Python
+- and Pascal D:<br>im ok
 
 love u!
