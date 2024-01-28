@@ -1,8 +1,9 @@
-```py
-developer = True
-def WhoAmI(value):
-  return not value
+```java
+/**
+ * @see my modrith :)
+ */
+public static final String MOD_ID = "metaldetectors";
+public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
-if __name__ == '__main__':
-  print('Am I good developer? Program says its', WhoAmI(developer), '...')
+System.out.println("Working on " + MOD_ID + " mod now.")
 ```
